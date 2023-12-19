@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233341141393",
+    "project_id": "k2x-assessment-task",
+    "storage_bucket": "k2x-assessment-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233341141393:android:ca10bc55bf5e869358da30",
+        "android_client_info": {
+          "package_name": "com.example.k2x_assessment_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233341141393-52nbr2kpn55hpp260gac4n501ike15j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.k2x_assessment_task",
+            "certificate_hash": "b0e1c245971b6ab1fc78a5d0f136f9984a664b6e"
+          }
+        },
+        {
+          "client_id": "233341141393-s105k6g6m2p473batfb7mkferaqdu7rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJxHLjor9P0E5Y5iP6BWZCJeMwkDMAmvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233341141393-s105k6g6m2p473batfb7mkferaqdu7rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
